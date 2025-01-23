@@ -116,7 +116,7 @@ GameObject:
   - component: {fileID: 4941635705825534}
   m_Layer: 0
   m_Name: Zumbi
-  m_TagString: Inimigo
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1296,8 +1296,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1063500868937916}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: -0, y: -0.93704706, z: -0, w: 0.34920323}
+  m_LocalPosition: {x: -16.9, y: 0, z: -18.58}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4388596583815700}
@@ -1330,7 +1330,7 @@ Transform:
   - {fileID: 4907605347408658}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -139.123, z: 0}
 --- !u!4 &4962514885412186
 Transform:
   m_ObjectHideFlags: 1
